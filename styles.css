@@ -1,2 +1,4 @@
 body { font-family: Arial; }
 h1 { color: blue; }
+nav { background: #333; padding: 10px; }
+nav a { color: white; margin: 0 10px; }
